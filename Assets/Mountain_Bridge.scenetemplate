@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: Mountain_Bridge
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: 44afc3db89f2042409cf65b7385e76fd, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 2800000, guid: 8e3ac8cd1d14aee42b8abb3650bbe73d, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 100002, guid: dab2c1b588eef2344b03658ce566d079, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 8a3782bd0202b6348a49e41f9306506a, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: a5c88f5ceb5dadc4a948359149697782, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: b3596dc99feb977409e2e55db56ce3a9, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 4dfd87005caa91943ae70e80c98f8ae6, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 83eae4fd4661b424c90c6306c7dc10d1, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 8f04f002838fb8444ac4c288658cb23f, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: d93045cefa332604ebe235d61f072d41, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 27e89be1bbcdc9e4cb369fa2b5a70afc, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 919132149155446097, guid: 90e6e3e05613b6942979075cfaf65038,
+      type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 6876875519848880603, guid: 3ac0c1bd9ddc8c443ae08a6d0b80abbf,
+      type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 6693827d1ec4f194e9f6044ff84bfc0e, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 5e4229615c627224fafee85995c1b5eb, type: 3}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  addToDefaults: 0
